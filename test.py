@@ -9,3 +9,5 @@ print(fab(3))
 print(fab(4))
 print(fab(5))
 print(fab(6))
+
+print("I love coffee")
